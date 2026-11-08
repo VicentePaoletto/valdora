@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794174400|4346004';
+const CACHE_VERSION = '1794176013|38824417';
 /** @type {string} */
 const CACHE_PREFIX = 'Valdora-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
